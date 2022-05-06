@@ -12,17 +12,17 @@ cat warm
 ![gambar1](image/cara1)
 ## Cara 2
 1. Download programnya.
-2. Jalankan program bash tersebut.
+2. Jalankan program bash tersebut.<br>
 ![gambar2](image/cara2_01.png) <br>
 Terlihat bahwa tidak dapat menjalankan program tersebut karena *permission denied*.
-3. Ubah *permission* agar dapat dicompile.
+3. Ubah *permission* agar dapat dicompile.<br>
 ![gambar3](image/cara2_02.png)<br>
 Untuk memastikan file dapat eksekusi, cek file system pada file. <br>
 **Gambar Sebelum**<br>
 ![gambar4](image/cara2_06.png)<br>
 **Gambar Sesudah Ditambah Permission Execution**<br>
 ![gambar5](image/cara2_03.png) <br>
-4. Lakukan eksekusi pada file tersebut.
+4. Lakukan eksekusi pada file tersebut.<br>
 ![gambar6](image/cara2_04.png)<br>
 Terlihat mengembalikan pesan untuk menambahkan "-h" saat melakukan compile.
 5. Lakukan compile dengan menambahkan "-h".
