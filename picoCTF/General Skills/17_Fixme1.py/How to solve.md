@@ -1,6 +1,6 @@
 # How to slove this
 
-URL soal: hhttps://play.picoctf.org/practice/challenge/240?category=5&page=2
+URL soal: https://play.picoctf.org/practice/challenge/240?category=5&page=2
 
 1. Download file yang ada pada deskripsi.
 2. Buka python script dan kemudian run code tersebut.<br>
