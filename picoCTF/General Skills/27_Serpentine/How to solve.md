@@ -2,7 +2,7 @@
 
 URL soal: https://play.picoctf.org/practice/challenge/251?category=5&page=3
 
-1. Dwonload python script yang ada di deskripsi soal.
+1. Download python script yang ada di deskripsi soal.
 2. Run sript tersebut.
 3. Terdapat perintah untuk mengecek scriptnya maka buka dengan text editor.
 4. Ternyata function untuk memunculkan flag tidak dipanggil, edit agar fungsi pembangkitan flag dipanggil.
